@@ -161,3 +161,25 @@ h4 {
 
 @media (max-width: 992px) {
 }
+
+.footer-credit-text {
+	vertical-align: middle;
+	margin: 0 20px 10px 20px;
+	font-size: small;
+}
+
+.footer-credit-box {
+	background-color: #fcfcfc;
+	border-radius: 8px;
+	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.footer-credit-box:hover {
+	box-shadow: 3px 8px 20px -9px rgba(0, 0, 0, 0.8);
+}
+
+option:hover {
+	background-color: red !important;
+}
