@@ -1,0 +1,163 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+h1 {
+	font-size: 3rem;
+	font-weight: 600;
+}
+
+h4 {
+	font-family: "Nunito", sans-serif;
+	font-weight: 600;
+}
+
+.logo-img {
+	width: 30px;
+	height: 30px;
+	margin-top: -5px;
+	margin-right: 5px;
+	transform: scaleX(-1);
+}
+
+.brand-text {
+	font-family: "Nunito", sans-serif;
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+.header-text {
+	font-family: "Nunito", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 600;
+	color: black !important;
+}
+
+.nav-link {
+	color: black !important;
+}
+
+.nav-item {
+	padding: 0px 20px 0px 20px;
+}
+
+.nav-link:hover {
+	color: rgba(0, 0, 0, 0.479) !important;
+}
+
+.underlined-muted-text {
+	color: #bcbcbc;
+	text-decoration: underline;
+}
+
+.detail-text {
+	font-family: "Nunito";
+	font-size: 1rem;
+}
+
+.detail-text-box {
+	border-color: #bcbcbc;
+	border-left-style: solid;
+	border-left-width: 2.5px;
+	padding-left: 15px;
+}
+
+.description-text {
+	margin-left: 70px;
+}
+
+.btn-black {
+	font-family: "Nunito";
+	font-weight: 600;
+	color: white;
+	background-color: black;
+	padding: 8px 45px 8px 45px;
+}
+
+.btn-black:hover {
+	background-color: #fece2f;
+	color: black;
+}
+
+.btn-yellow {
+	font-family: "Nunito";
+	font-weight: 600;
+	color: black;
+	background-color: #fece2f;
+	padding: 8px 45px 8px 45px;
+}
+
+.btn-yellow:hover {
+	background-color: black;
+	color: white;
+}
+
+.img-plant {
+	height: 100%;
+	width: 100%;
+}
+
+.img-plant-small {
+	height: 80px;
+	width: 80px;
+}
+
+.card-box {
+	box-shadow: 0px 80px 120px -19px rgba(0, 0, 0, 0.05);
+}
+
+.card-box-mini {
+	box-shadow: 0px 80px 120px -19px rgba(0, 0, 0, 0.05);
+	margin-top: 100px;
+	padding: 80px 0px 80px 0px;
+	transition: 0.5s;
+}
+
+.card-box-mini:hover {
+	box-shadow: 0px 30px 50px -19px rgba(0, 0, 0, 0.3);
+	margin-top: 100px;
+	padding: 80px 0px 80px 0px;
+}
+
+.tech-addict {
+	margin-top: 150px;
+}
+
+.underline {
+	width: 120px;
+	height: 2px;
+	margin-left: 80px;
+	background-color: #bcbcbc;
+}
+
+.icon-img {
+	width: 50px;
+	height: 50px;
+}
+
+.link {
+	color: black;
+	text-decoration: underline;
+}
+
+.newsletter {
+	margin-top: 150px;
+}
+
+.newsletter-form {
+	border: none !important;
+	background-color: #f1f1f1;
+}
+
+.footer {
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+
+.left-corner-img {
+	transform: scaleX(-1);
+}
+
+@media (max-width: 992px) {
+}
